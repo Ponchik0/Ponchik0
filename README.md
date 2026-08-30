@@ -1,42 +1,52 @@
 <div align="center">
 
-  <!-- Киберпанк Баннер со скосом (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0d13,50:6366f1,100:ff3e88&height=220&section=header&text=PONCHIK&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%2F%2F%20Game%20Modding%20Engineer&descFontSize=18&descColor=e0e7ff&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Главный тёмно-синий баннер (Deep Blue / Cyber Navy) -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:050811,40:0f172a,100:1d4ed8&height=220&section=header&text=PONCHIK&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%E2%80%A2%20Game%20Modding%20Engineer&descFontSize=18&descColor=93c5fd&descAlignY=62" width="100%" alt="Header Banner" />
 
-  <!-- Анимированная неоновая строка кода -->
+  <!-- Анимированная неоново-голубая строка кода -->
   <a href="https://github.com/Ponchik0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FF3E88&center=true&vCenter=true&width=750&height=45&lines=%24+ponchik+--status+%22STILL+BUILDING%22;Creator+of+Zoovix+%26+18.5k%2B+Downloads+Unity+Mods;Next.js+15+%E2%80%A2+React+19+%E2%80%A2+Unity+C%23+%E2%80%A2+Python;web+%E2%80%A2+gamedev+%E2%80%A2+reverse+engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%24+ponchik+--status+%22STILL+BUILDING%22;Creator+of+Zoovix+%26+18.5k%2B+Downloads+Unity+Mods;Next.js+15+%E2%80%A2+React+19+%E2%80%A2+Unity+C%23+%E2%80%A2+Python;web+%E2%80%A2+gamedev+%E2%80%A2+reverse+engineering" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Информационные плашки: Часовой пояс, Статус, Discord -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/TIMEZONE-UTC%2B3_%2F_KYIV-ff3e88?style=for-the-badge&logo=googleearth&logoColor=white" />
-    <img src="https://img.shields.io/badge/STATUS-STILL_BUILDING-121520?style=for-the-badge&logo=powershell&logoColor=ff3e88" />
-    <img src="https://img.shields.io/badge/DISCORD-%40ponchik0-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </p>
+  <!-- Баннеры Timezone и Status (в один ряд) -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="35%" align="center" style="border:none;">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,100:0f172a&height=100&text=UTC%2B3&fontSize=38&fontColor=38bdf8&fontAlignY=45&desc=KYIV%20%2F%20EASTERN%20EUROPE&descFontSize=11&descColor=94a3b8&descAlignY=75" width="100%" alt="Timezone Banner" />
+      </td>
+      <td width="65%" align="center" style="border:none;">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,100:0f172a&height=100&text=%24%20ponchik%20--status%20STILL%20BUILDING&fontSize=20&fontColor=ffffff&fontAlignY=45&desc=Next.js%2015%20%E2%80%A2%20Unity%20C%23%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript&descFontSize=12&descColor=60a5fa&descAlignY=75" width="100%" alt="Status Banner" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Широкий баннер Discord Transmission -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050811,50:0f172a,100:2563eb&height=100&text=DISCORD%20%3A%3A%20%40ponchik0&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=TRANSMISSION%20%E2%80%A2%20REACH%20OUT%20FOR%20COLLABORATION&descFontSize=12&descColor=93c5fd&descAlignY=72" width="100%" alt="Discord Banner" />
+
+  <br /><br />
 
   <!-- Быстрые бейджи метрик -->
   <p align="center">
     <a href="https://thunderstore.io/c/how-to-fish/p/Ponchik/"><img src="https://img.shields.io/badge/Thunderstore-18.5k+_Downloads-00c853?style=for-the-badge&logo=curseforge&logoColor=white" alt="Thunderstore Downloads" /></a>
-    <a href="https://www.zoovix.live"><img src="https://img.shields.io/badge/Zoovix-Live_Demo-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Zoovix Live" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Ponchik0&label=PROFILE+VIEWS&style=for-the-badge&color=ff3e88" alt="Profile Views" />
+    <a href="https://www.zoovix.live"><img src="https://img.shields.io/badge/Zoovix-Live_Demo-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Zoovix Live" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Ponchik0&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### // OVERVIEW
+### OVERVIEW
 
 - **Primary Project:** Author & Architect of **[Zoovix](https://www.zoovix.live)** — modern cinema catalog with real-time watch-party rooms, gamification, quest mechanics, custom session security and PWA.
 - **Game Modding & Networking:** Creator of the *How to Fish* mod lineup (**WeatherExpansion**, **SuperCreatures**, **BaitIndex**, **ScoreAlways**) with **18,500+ downloads** on Thunderstore. Implemented multiplayer sleep synchronization via FishNet RPCs, dynamic weather systems, and Raycast splash physics.
-- **Systems & Tooling:** Author of **Aura UI** (modular dark-theme UI framework for Luau/Roblox), Discord community bots and Steam Millennium client plugins.
+- **Systems & Tooling:** Author of Discord community bots and Steam Millennium client plugins for live game telemetry.
 
 ---
 
-### // TECH STACK & ARCHITECTURE
+### TECH STACK & ARCHITECTURE
 
 <div align="center">
 
@@ -57,7 +67,7 @@
   <img src="https://img.shields.io/badge/Unity_Engine-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/BepInEx_&_HarmonyX-374151?style=for-the-badge&logo=modx&logoColor=white" />
   <img src="https://img.shields.io/badge/FishNet_Networking-2563EB?style=for-the-badge&logo=radar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Luau_%2F_Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HLSL_Shaders-10B981?style=for-the-badge&logo=opengl&logoColor=white" />
 </p>
 
 #### Backend, Databases & Infrastructure
@@ -82,7 +92,7 @@
 
 ---
 
-### // FEATURED WORKS
+### FEATURED PROJECTS
 
 <table>
   <tr>
@@ -102,7 +112,7 @@
       <h3 align="center">Unity Modding Ecosystem</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/18.5k+_Downloads-00c853?style=flat-square" />
-        <img src="https://img.shields.io/badge/C%23-Unity_URP-512BD4?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%23-Unity_URP-2563EB?style=flat-square" />
       </p>
       <p>Popular mod lineup for <em>How to Fish</em>:</p>
       <ul>
@@ -117,14 +127,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Aura Modern UI</h3>
+      <h3 align="center">FACEIT Stats Modern</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Luau-Roblox-000080?style=flat-square" />
-        <img src="https://img.shields.io/badge/Design-Dark_Zinc-ff3e88?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-JavaScript-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Steam-Millennium-1b2838?style=flat-square&logo=steam&logoColor=white" />
       </p>
-      <p>Modern UI framework in Dark Zinc palette with smooth spring animations, Lerp dragging physics and Lucide vector icons.</p>
+      <p>Modern Steam client plugin embedding live CS2 FACEIT and Leetify analytics (ELO, K/D, winrates) directly into Steam profiles.</p>
       <p align="center">
-        <a href="https://github.com/Ponchik0"><strong>[ Source Code ]</strong></a>
+        <a href="https://github.com/Ponchik0/FaceitStatsModern"><strong>[ Repository ]</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -143,23 +153,23 @@
 
 ---
 
-### // ACTIVITY & CONTRIBUTIONS
+### ACTIVITY & STATS
 
 <div align="center">
-  <!-- График активности -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=0b0d13&color=ff3e88&line=ff3e88&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- График активности в темно-синем стиле -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=050811&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Стрик коммитов -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=0b0d13&stroke=ff3e88&ring=ff3e88&fire=ff3e88&currStreakLabel=ff3e88" alt="GitHub Streak" width="75%" />
+  <!-- Стрик в темно-синем стиле -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=050811&stroke=2563eb&ring=38bdf8&fire=38bdf8&currStreakLabel=60a5fa" alt="GitHub Streak" width="75%" />
 </div>
 
 ---
 
-### // CONTRIBUTION TIMELINE
+### CONTRIBUTION TIMELINE
 
 <div align="center">
   <picture>
@@ -177,7 +187,7 @@
   <a href="https://github.com/Ponchik0"><img src="https://img.shields.io/badge/GitHub-Ponchik0-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
-<!-- Нижний баннер в завершение страницы -->
+<!-- Завершающий темно-синий баннер -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d13,100:ff3e88&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,100:1d4ed8&height=90&section=footer" width="100%" />
 </div>
