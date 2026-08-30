@@ -1,33 +1,16 @@
 <div align="center">
 
-  <!-- Главный тёмно-синий баннер (Deep Blue / Cyber Navy) -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:050811,40:0f172a,100:1d4ed8&height=220&section=header&text=PONCHIK&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%E2%80%A2%20Game%20Modding%20Engineer&descFontSize=18&descColor=93c5fd&descAlignY=62" width="100%" alt="Header Banner" />
-
-  <!-- Анимированная неоново-голубая строка кода -->
-  <a href="https://github.com/Ponchik0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%24+ponchik+--status+%22STILL+BUILDING%22;Creator+of+Zoovix+%26+18.5k%2B+Downloads+Unity+Mods;Next.js+15+%E2%80%A2+React+19+%E2%80%A2+Unity+C%23+%E2%80%A2+Python;web+%E2%80%A2+gamedev+%E2%80%A2+reverse+engineering" alt="Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- Баннеры Timezone и Status (в один ряд) -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="35%" align="center" style="border:none;">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,100:0f172a&height=100&text=UTC%2B3&fontSize=38&fontColor=38bdf8&fontAlignY=45&desc=KYIV%20%2F%20EASTERN%20EUROPE&descFontSize=11&descColor=94a3b8&descAlignY=75" width="100%" alt="Timezone Banner" />
-      </td>
-      <td width="65%" align="center" style="border:none;">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,100:0f172a&height=100&text=%24%20ponchik%20--status%20STILL%20BUILDING&fontSize=20&fontColor=ffffff&fontAlignY=45&desc=Next.js%2015%20%E2%80%A2%20Unity%20C%23%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript&descFontSize=12&descColor=60a5fa&descAlignY=75" width="100%" alt="Status Banner" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Широкий баннер Discord Transmission -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050811,50:0f172a,100:2563eb&height=100&text=DISCORD%20%3A%3A%20%40ponchik0&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=TRANSMISSION%20%E2%80%A2%20REACH%20OUT%20FOR%20COLLABORATION&descFontSize=12&descColor=93c5fd&descAlignY=72" width="100%" alt="Discord Banner" />
+  <!-- Aesthetic Cyberpunk Master Banner -->
+  <img src="./assets/banner.svg" width="100%" alt="Ponchik Header Banner" />
 
   <br /><br />
 
-  <!-- Быстрые бейджи метрик -->
+  <!-- Discord Transmission Banner -->
+  <img src="./assets/discord.svg" width="100%" alt="Discord Transmission" />
+
+  <br /><br />
+
+  <!-- Fast Status Badges -->
   <p align="center">
     <a href="https://thunderstore.io/c/how-to-fish/p/Ponchik/"><img src="https://img.shields.io/badge/Thunderstore-18.5k+_Downloads-00c853?style=for-the-badge&logo=curseforge&logoColor=white" alt="Thunderstore Downloads" /></a>
     <a href="https://www.zoovix.live"><img src="https://img.shields.io/badge/Zoovix-Live_Demo-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Zoovix Live" /></a>
@@ -42,7 +25,7 @@
 
 - **Primary Project:** Author & Architect of **[Zoovix](https://www.zoovix.live)** — modern cinema catalog with real-time watch-party rooms, gamification, quest mechanics, custom session security and PWA.
 - **Game Modding & Networking:** Creator of the *How to Fish* mod lineup (**WeatherExpansion**, **SuperCreatures**, **BaitIndex**, **ScoreAlways**) with **18,500+ downloads** on Thunderstore. Implemented multiplayer sleep synchronization via FishNet RPCs, dynamic weather systems, and Raycast splash physics.
-- **Systems & Tooling:** Author of Discord community bots and Steam Millennium client plugins for live game telemetry.
+- **Client Systems & Plugins:** Developer of **FACEIT Stats Modern** (Steam Millennium client plugin) for live CS2/Leetify telemetry and custom developer tools.
 
 ---
 
@@ -126,26 +109,15 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">FACEIT Stats Modern</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-JavaScript-3178C6?style=flat-square" />
         <img src="https://img.shields.io/badge/Steam-Millennium-1b2838?style=flat-square&logo=steam&logoColor=white" />
       </p>
-      <p>Modern Steam client plugin embedding live CS2 FACEIT and Leetify analytics (ELO, K/D, winrates) directly into Steam profiles.</p>
+      <p align="center">Modern Steam client plugin embedding live CS2 FACEIT and Leetify analytics (ELO, K/D, winrates) directly into Steam profiles.</p>
       <p align="center">
         <a href="https://github.com/Ponchik0/FaceitStatsModern"><strong>[ Repository ]</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Ponchik Community Bot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python_3.12-AsyncIO-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square" />
-      </p>
-      <p>Discord automation bot with Thunderstore API webhooks, dynamic voice room allocation, sneak-peek threads and anti-spam filters.</p>
-      <p align="center">
-        <a href="https://github.com/Ponchik0/botdc"><strong>[ Repository ]</strong></a>
       </p>
     </td>
   </tr>
@@ -156,14 +128,12 @@
 ### ACTIVITY & STATS
 
 <div align="center">
-  <!-- График активности в темно-синем стиле -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=050811&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Стрик в темно-синем стиле -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=050811&stroke=2563eb&ring=38bdf8&fire=38bdf8&currStreakLabel=60a5fa" alt="GitHub Streak" width="75%" />
 </div>
 
@@ -187,7 +157,6 @@
   <a href="https://github.com/Ponchik0"><img src="https://img.shields.io/badge/GitHub-Ponchik0-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
-<!-- Завершающий темно-синий баннер -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,100:1d4ed8&height=90&section=footer" width="100%" />
 </div>
