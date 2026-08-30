@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 130" width="100%" height="100%">
+  <defs>
+    <style>
+      .bold-title { font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Impact', 'Arial Black', sans-serif; font-weight: 900; font-style: italic; }
+      .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+    </style>
+    <pattern id="pinkDotsCombined" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="5" r="1.3" fill="#ffffff" opacity="0.45" />
+    </pattern>
+    <pattern id="darkDotsCombined" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="1.1" fill="#ffffff" opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- LEFT: TIMEZONE -->
+  <g transform="translate(0, 0)">
+    <rect width="320" height="130" rx="8" fill="#ff2a85" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" />
+    <rect x="160" y="0" width="160" height="130" rx="8" fill="url(#pinkDotsCombined)" />
+    <text x="24" y="80" fill="#090a10" font-size="58" class="bold-title" letter-spacing="1">UTC+3</text>
+    <text x="26" y="106" fill="#090a10" font-size="11" class="mono" font-weight="800" letter-spacing="3">KYIV, UKRAINE</text>
+  </g>
+
+  <!-- RIGHT: STATUS -->
+  <g transform="translate(332, 0)">
+    <rect width="548" height="130" rx="8" fill="#090a10" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" />
+    <rect width="548" height="130" rx="8" fill="url(#darkDotsCombined)" />
+    <text x="28" y="34" fill="#64748b" font-size="13" class="mono" font-weight="700" letter-spacing="1">$ ponchik --status</text>
+    <text x="28" y="86" fill="#f8fafc" font-size="46" class="bold-title" letter-spacing="1.5">STILL </text>
+    <text x="166" y="86" fill="#ff2a85" font-size="46" class="bold-title" letter-spacing="1.5">BUILDING</text>
+    <text x="28" y="110" fill="#64748b" font-size="11" class="mono" letter-spacing="2">web • gamedev • reverse engineering</text>
+  </g>
+</svg>
