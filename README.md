@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Aesthetic Cyberpunk Master Banner -->
+  <!-- Anime Master Banner -->
   <img src="./assets/banner.svg" width="100%" alt="Ponchik Header Banner" />
 
   <br /><br />
 
-  <!-- Discord Transmission Banner -->
-  <img src="./assets/discord.svg" width="100%" alt="Discord Transmission" />
+  <!-- Discord Banner -->
+  <img src="./assets/discord.svg" width="100%" alt="Discord Banner" />
 
   <br /><br />
 
@@ -14,7 +14,7 @@
   <p align="center">
     <a href="https://thunderstore.io/c/how-to-fish/p/Ponchik/"><img src="https://img.shields.io/badge/Thunderstore-18.5k+_Downloads-00c853?style=for-the-badge&logo=curseforge&logoColor=white" alt="Thunderstore Downloads" /></a>
     <a href="https://www.zoovix.live"><img src="https://img.shields.io/badge/Zoovix-Live_Demo-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Zoovix Live" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Ponchik0&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Ponchik0&label=PROFILE+VIEWS&style=for-the-badge&color=ff2a85" alt="Profile Views" />
   </p>
 
 </div>
@@ -128,13 +128,13 @@
 ### ACTIVITY & STATS
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=050811&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=080b14&color=ff2a85&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=050811&stroke=2563eb&ring=38bdf8&fire=38bdf8&currStreakLabel=60a5fa" alt="GitHub Streak" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=080b14&stroke=38bdf8&ring=ff2a85&fire=ff2a85&currStreakLabel=38bdf8" alt="GitHub Streak" width="75%" />
 </div>
 
 ---
@@ -158,5 +158,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,100:1d4ed8&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:2563eb,100:ff2a85&height=90&section=footer" width="100%" />
 </div>
