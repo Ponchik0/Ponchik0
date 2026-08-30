@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 130" width="100%" height="100%">
+  <defs>
+    <style>
+      .bold-title { font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Impact', 'Arial Black', sans-serif; font-weight: 900; font-style: italic; }
+      .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+    </style>
+    <pattern id="cardDotGrid" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="7" r="1.1" fill="#ffffff" opacity="0.08" />
+    </pattern>
+  </defs>
+  <rect width="540" height="130" rx="8" fill="#090a10" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" />
+  <rect width="540" height="130" rx="8" fill="url(#cardDotGrid)" />
+  <text x="24" y="34" fill="#64748b" font-size="13" class="mono" font-weight="700" letter-spacing="1">$ ponchik --status</text>
+  <text x="24" y="86" fill="#f8fafc" font-size="46" class="bold-title" letter-spacing="1.5">STILL </text>
+  <text x="162" y="86" fill="#ff2a85" font-size="46" class="bold-title" letter-spacing="1.5">BUILDING</text>
+  <text x="24" y="110" fill="#64748b" font-size="11" class="mono" letter-spacing="2">web • gamedev • reverse engineering</text>
+</svg>
