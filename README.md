@@ -3,21 +3,12 @@
   <!-- Top Main Banner -->
   <img src="./assets/banner.svg" width="100%" alt="Ponchik Header Banner" />
 
-  <br /><br />
+  <!-- Middle Row: Timezone + Status (Идеально подогнаны по ширине в единый блок) -->
+  <img src="./assets/info_row.svg" width="100%" alt="Timezone and Status" />
 
-  <!-- Middle Row: Timezone + Status -->
-  <table border="0" width="100%">
-    <tr>
-      <td width="37%" style="border:none; padding:0 4px 0 0;">
-        <img src="./assets/timezone.svg" width="100%" alt="Timezone UTC+3" />
-      </td>
-      <td width="63%" style="border:none; padding:0 0 0 4px;">
-        <img src="./assets/status.svg" width="100%" alt="Status Banner" />
-      </td>
-    </tr>
-  </table>
+  <br /><br /><br />
 
-  <!-- Bottom Banner: Discord -->
+  <!-- Bottom Banner: Discord (С отступом ниже) -->
   <img src="./assets/discord.svg" width="100%" alt="Discord Transmission" />
 
   <br /><br />
