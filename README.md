@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Anime Master Banner -->
-  <img src="./assets/banner.svg" width="100%" alt="Ponchik Header Banner" />
+  <!-- Anime Neko Cyberpunk Header Banner -->
+  <img src="./assets/banner.png" width="100%" alt="Ponchik Header Banner" />
 
   <br /><br />
 
-  <!-- Discord Banner -->
-  <img src="./assets/discord.svg" width="100%" alt="Discord Banner" />
+  <!-- Anime Neko Discord Banner -->
+  <img src="./assets/discord.png" width="100%" alt="Discord Transmission" />
 
   <br /><br />
 
