@@ -1,12 +1,24 @@
 <div align="center">
 
-  <!-- Anime Neko Cyberpunk Header Banner -->
-  <img src="./assets/banner.png" width="100%" alt="Ponchik Header Banner" />
+  <!-- Top Main Banner -->
+  <img src="./assets/banner.svg" width="100%" alt="Ponchik Header Banner" />
 
   <br /><br />
 
-  <!-- Anime Neko Discord Banner -->
-  <img src="./assets/discord.png" width="100%" alt="Discord Transmission" />
+  <!-- Middle Row: Timezone + Status -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="37%" style="border:none; padding:0 4px 0 0;">
+        <img src="./assets/timezone.svg" width="100%" alt="Timezone UTC+3" />
+      </td>
+      <td width="63%" style="border:none; padding:0 0 0 4px;">
+        <img src="./assets/status.svg" width="100%" alt="Status Banner" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Bottom Banner: Discord -->
+  <img src="./assets/discord.svg" width="100%" alt="Discord Transmission" />
 
   <br /><br />
 
@@ -128,13 +140,13 @@
 ### ACTIVITY & STATS
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=080b14&color=ff2a85&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ponchik0&theme=react-dark&bg_color=090a10&color=ff2a85&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=080b14&stroke=38bdf8&ring=ff2a85&fire=ff2a85&currStreakLabel=38bdf8" alt="GitHub Streak" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ponchik0&theme=tokyonight&hide_border=true&background=090a10&stroke=38bdf8&ring=ff2a85&fire=ff2a85&currStreakLabel=38bdf8" alt="GitHub Streak" width="75%" />
 </div>
 
 ---
@@ -158,5 +170,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:2563eb,100:ff2a85&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a10,50:2563eb,100:ff2a85&height=90&section=footer" width="100%" />
 </div>
