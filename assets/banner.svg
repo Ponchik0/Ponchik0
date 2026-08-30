@@ -1,57 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="100%" height="100%">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050811" />
-      <stop offset="40%" stop-color="#0a1024" />
-      <stop offset="100%" stop-color="#0d1b3a" />
+    <linearGradient id="animeBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b14" />
+      <stop offset="50%" stop-color="#0d1326" />
+      <stop offset="100%" stop-color="#120c1f" />
     </linearGradient>
-    <linearGradient id="blueAccentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1d4ed8" />
-      <stop offset="50%" stop-color="#2563eb" />
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2a85" />
+      <stop offset="100%" stop-color="#ff60a8" />
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" />
       <stop offset="100%" stop-color="#38bdf8" />
     </linearGradient>
-    <pattern id="dotGrid" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse">
-      <circle cx="7" cy="7" r="1.2" fill="#38bdf8" opacity="0.25" />
+    <pattern id="pinkDotGrid" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.4" fill="#ff2a85" opacity="0.4" />
     </pattern>
-    <pattern id="rayPattern" x="0" y="0" width="900" height="320" patternUnits="userSpaceOnUse">
-      <path d="M 0,320 L 40,-50 M 0,320 L 110,-50 M 0,320 L 190,-50 M 0,320 L 290,-50 M 0,320 L 410,-50 M 0,320 L 550,-50 M 0,320 L 710,-50 M 0,320 L 890,-30 M 0,320 L 950,50 M 0,320 L 950,140 M 0,320 L 950,230" stroke="#38bdf8" stroke-width="1.2" opacity="0.08" />
+    <pattern id="mangaRays" x="0" y="0" width="900" height="340" patternUnits="userSpaceOnUse">
+      <path d="M 0,340 L 40,-50 M 0,340 L 110,-50 M 0,340 L 190,-50 M 0,340 L 290,-50 M 0,340 L 410,-50 M 0,340 L 550,-50 M 0,340 L 710,-50 M 0,340 L 890,-30 M 0,340 L 950,50 M 0,340 L 950,140 M 0,340 L 950,230" stroke="#38bdf8" stroke-width="1.2" opacity="0.08" />
     </pattern>
     <style>
-      .mono { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', 'Courier New', monospace; }
+      .mono { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', monospace; }
       .bold-impact { font-family: 'Impact', 'Montserrat', 'Arial Black', sans-serif; font-style: italic; }
       .jp-font { font-family: 'Hiragino Kaku Gothic Pro', 'Meiryo', 'Noto Sans JP', sans-serif; }
     </style>
   </defs>
-  <rect width="900" height="320" rx="10" fill="url(#bgGrad)" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.5" />
-  <rect width="900" height="320" rx="10" fill="url(#rayPattern)" />
-  <rect x="20" y="245" width="220" height="55" fill="url(#dotGrid)" rx="4" />
-  <polygon points="620,0 720,0 580,110 480,110" fill="url(#blueAccentGrad)" opacity="0.85" />
-  <polygon points="760,0 830,0 730,80 660,80" fill="#38bdf8" opacity="0.3" />
-  <g transform="translate(36, 36)">
-    <polygon points="0,0 7,7 0,14 -7,7" fill="#38bdf8" />
-    <text x="18" y="10" fill="#93c5fd" font-size="12" class="mono" letter-spacing="3" font-weight="700">SYS. 01 / KYIV [UTC+3]</text>
+
+  <rect width="900" height="340" rx="12" fill="url(#animeBgGrad)" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.5" />
+  <rect width="900" height="340" rx="12" fill="url(#mangaRays)" />
+  <rect x="24" y="260" width="180" height="60" fill="url(#pinkDotGrid)" rx="4" />
+
+  <polygon points="560,0 650,0 520,110 430,110" fill="url(#pinkGrad)" opacity="0.9" />
+  <polygon points="680,0 760,0 640,110 560,110" fill="url(#cyanGrad)" opacity="0.85" />
+  <polygon points="790,0 840,0 730,90 680,90" fill="#ffffff" opacity="0.25" />
+
+  <g transform="translate(36, 34)">
+    <polygon points="0,0 7,7 0,14 -7,7" fill="#ff2a85" />
+    <text x="18" y="10" fill="#38bdf8" font-size="12" class="mono" letter-spacing="3" font-weight="700">◆ 第 01 話 / CH. 01</text>
+    <rect x="185" y="-3" width="115" height="20" rx="3" fill="#ff2a85" />
+    <text x="193" y="11" fill="#ffffff" font-size="11" class="mono" font-weight="900" letter-spacing="1.5">KYIV [UTC+3]</text>
   </g>
-  <text x="42" y="162" fill="#1e3a8a" font-size="104" class="bold-impact" letter-spacing="3">PONCHIK</text>
-  <text x="38" y="158" fill="#2563eb" font-size="104" class="bold-impact" letter-spacing="3">PONCHIK</text>
-  <text x="34" y="154" fill="#ffffff" font-size="104" class="bold-impact" letter-spacing="3">PONCHIK</text>
-  <g transform="translate(36, 185)">
-    <rect width="200" height="32" rx="4" fill="#ffffff" />
-    <text x="12" y="22" fill="#050811" font-size="14" class="jp-font" font-weight="900" letter-spacing="2">「 ただ、つくる。」</text>
-    <text x="215" y="21" fill="#93c5fd" font-size="13" class="mono" font-weight="600" letter-spacing="2">FULLSTACK • GAMEDEV • MODDING</text>
+
+  <text x="44" y="162" fill="#1d4ed8" font-size="106" class="bold-impact" letter-spacing="3">PONCHIK</text>
+  <text x="40" y="158" fill="#ff2a85" font-size="106" class="bold-impact" letter-spacing="3">PONCHIK</text>
+  <text x="36" y="154" fill="#ffffff" font-size="106" class="bold-impact" letter-spacing="3">PONCHIK</text>
+
+  <g transform="translate(36, 182)">
+    <rect width="195" height="34" rx="4" fill="#ffffff" />
+    <text x="12" y="23" fill="#080b14" font-size="15" class="jp-font" font-weight="900" letter-spacing="2">「 ただ、つくる。」</text>
+    <text x="210" y="22" fill="#38bdf8" font-size="14" class="mono" font-weight="700" letter-spacing="2">FULLSTACK • GAMEDEV • MODS</text>
   </g>
-  <g transform="translate(36, 238)">
-    <rect width="828" height="48" rx="6" fill="#080e1e" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.2" />
-    <circle cx="22" cy="24" r="5" fill="#38bdf8" />
-    <text x="38" y="29" fill="#38bdf8" font-size="14" class="mono" font-weight="700">$ ponchik --status</text>
-    <text x="215" y="29" fill="#ffffff" font-size="14" class="bold-impact" letter-spacing="1">STILL BUILDING</text>
-    <text x="350" y="28" fill="#64748b" font-size="12" class="mono">:: Next.js 15 • React 19 • Unity C# • Python</text>
+
+  <!-- High-contrast Readable Status Box -->
+  <g transform="translate(36, 236)">
+    <rect width="828" height="68" rx="8" fill="#0f1629" stroke="#38bdf8" stroke-width="1.5" />
+    <rect x="0" y="0" width="6" height="68" rx="3" fill="#ff2a85" />
+    <text x="24" y="28" fill="#ff2a85" font-size="14" class="mono" font-weight="900">$ ponchik --status</text>
+    <rect x="180" y="12" width="140" height="24" rx="4" fill="#2563eb" />
+    <text x="190" y="28" fill="#ffffff" font-size="13" class="bold-impact" letter-spacing="1.5">STILL BUILDING</text>
+    <text x="24" y="53" fill="#f8fafc" font-size="13" class="mono" font-weight="600">
+      <tspan fill="#38bdf8">STACK &gt;</tspan> Next.js 15 • React 19 • Unity C# • Python • TypeScript • Supabase
+    </text>
   </g>
-  <g transform="translate(830, 45)" opacity="0.6">
-    <text x="0" y="0" fill="#38bdf8" font-size="22" class="jp-font" font-weight="700">ク</text>
-    <text x="0" y="32" fill="#38bdf8" font-size="22" class="jp-font" font-weight="700">リ</text>
-    <text x="0" y="64" fill="#38bdf8" font-size="22" class="jp-font" font-weight="700">エ</text>
-    <text x="0" y="96" fill="#38bdf8" font-size="22" class="jp-font" font-weight="700">イ</text>
-    <text x="0" y="128" fill="#38bdf8" font-size="22" class="jp-font" font-weight="700">タ</text>
-    <text x="0" y="160" fill="#38bdf8" font-size="22" class="jp-font" font-weight="700">ー</text>
+
+  <g transform="translate(835, 40)">
+    <text x="0" y="0" fill="#ff2a85" font-size="20" class="jp-font" font-weight="900">ポ</text>
+    <text x="0" y="30" fill="#38bdf8" font-size="20" class="jp-font" font-weight="900">ン</text>
+    <text x="0" y="60" fill="#ffffff" font-size="20" class="jp-font" font-weight="900">チ</text>
+    <text x="0" y="90" fill="#ff2a85" font-size="20" class="jp-font" font-weight="900">ク</text>
   </g>
 </svg>
