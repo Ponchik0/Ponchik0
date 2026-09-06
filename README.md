@@ -94,36 +94,6 @@
         <a href="https://github.com/Ponchik0/Zoovix"><strong>[ Repository ]</strong></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Unity Modding Ecosystem</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/18.5k+_Downloads-00c853?style=flat-square" />
-        <img src="https://img.shields.io/badge/C%23-Unity_URP-2563EB?style=flat-square" />
-      </p>
-      <p>Popular mod lineup for <em>How to Fish</em>:</p>
-      <ul>
-        <li><strong>WeatherExpansion:</strong> 6 dynamic weather systems, 1600 procedural stars, FishNet sleep sync</li>
-        <li><strong>SuperCreatures:</strong> Giant sea leviathans, custom rigs & trophies</li>
-        <li><strong>BaitIndex & ScoreAlways:</strong> In-game encyclopedia & AMOLED HUD</li>
-      </ul>
-      <p align="center">
-        <a href="https://thunderstore.io/c/how-to-fish/p/Ponchik/"><strong>[ View on Thunderstore ]</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">FACEIT Stats Modern</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-JavaScript-3178C6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Steam-Millennium-1b2838?style=flat-square&logo=steam&logoColor=white" />
-      </p>
-      <p align="center">Modern Steam client plugin embedding live CS2 FACEIT and Leetify analytics (ELO, K/D, winrates) directly into Steam profiles.</p>
-      <p align="center">
-        <a href="https://github.com/Ponchik0/FaceitStatsModern"><strong>[ Repository ]</strong></a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
