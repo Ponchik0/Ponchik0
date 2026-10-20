@@ -29,51 +29,12 @@
 
 ## 02 / Избранные работы
 
-### Zoovix <sup>01</sup>
-
-<sub>Веб-приложение &nbsp; / &nbsp; В разработке</sub>
-
-Каталог фильмов и сериалов с поиском, интеграцией с TMDB и поддержкой PWA. Интерфейс на трёх языках: UK / RU / EN.
-
-`Next.js` `TypeScript` `Supabase`
-
-**[Смотреть код →](https://github.com/Ponchik0/Zoovix)**
-
----
-
-### Personal portfolio <sup>02</sup>
-
-<sub>Персональный сайт &nbsp; / &nbsp; Дизайн и разработка</sub>
-
-Проекты и кейсы в одном месте. Светлая и тёмная темы, плавные анимации и три языковые версии: EN / UK / RU.
-
-`Astro` `TypeScript` `CSS`
-
-**[Открыть сайт →](https://ponchik0.github.io/portfolio/)** &nbsp; · &nbsp; [Исходный код](https://github.com/Ponchik0/portfolio)
-
----
-
-### Maksym Café <sup>03</sup>
-
-<sub>Сайт для кафе &nbsp; / &nbsp; Пилотный концепт</sub>
-
-Меню с категориями, ценами и деталями блюд, контакты заведения и список выбранного для заказа у стойки. Самостоятельный концепт, не заказ клиента.
-
-`React` `Vite` `Tailwind CSS`
-
-**[Смотреть кейс →](https://ponchik0.github.io/portfolio/uk/projects/maksym-cafe/)**
-
----
-
-### Poezdato <sup>04</sup>
-
-<sub>Сервис расписаний &nbsp; / &nbsp; Концепт редизайна</sub>
-
-Новый взгляд на железнодорожное расписание: поиск маршрутов, подсказки станций и понятное табло отправлений.
-
-`Node.js` `JavaScript` `CSS`
-
-**[Смотреть кейс →](https://ponchik0.github.io/portfolio/uk/projects/poezdato/)**
+| Проект | Коротко |
+| :--- | :--- |
+| **[Zoovix](https://github.com/Ponchik0/Zoovix)** | Кинокаталог с поиском и PWA. В разработке. |
+| **[Portfolio](https://ponchik0.github.io/portfolio/)** | Мои проекты и кейсы на трёх языках. |
+| **[Maksym Café](https://ponchik0.github.io/portfolio/uk/projects/maksym-cafe/)** | Меню и страница кафе — пилотный концепт. |
+| **[Poezdato](https://ponchik0.github.io/portfolio/uk/projects/poezdato/)** | Поиск поездов и расписание — концепт редизайна. |
 
 <br />
 
