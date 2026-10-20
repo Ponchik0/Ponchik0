@@ -1,6 +1,6 @@
 # Profile design
 
-The profile uses black (`#131316`), soft white (`#faf8f9`) and powder pink (`#edb3cc`). The banner and closing illustration have light and dark variants selected with GitHub’s supported `<picture>` markup. Selected work is a compact two-column table: a linked project name and one short description. There are no project images, individual headings, repeated stack badges or separate calls to action. Pilot and redesign concepts stay labelled within their descriptions.
+The profile uses black (`#131316`), soft white (`#faf8f9`) and powder pink (`#edb3cc`). The banner and closing illustration have light and dark variants selected with GitHub’s supported `<picture>` markup. Selected work is a compact 2×2 grid of centred text cards. Each has a project title, a one-line summary, a small type/status label and one link. There are no project images, numbers or stack badges. Pilot and redesign concepts stay explicitly labelled. The cards use GitHub-supported HTML rather than custom CSS.
 
 All essential descriptions, project links and contact details remain readable text in `README.md`. The SVGs have no scripts, remote fonts or remote resources. The profile does not depend on badge, visitor-counter or statistics image services. The existing daily contribution-snake workflow supplies the activity image from this repository’s `output` branch.
 

@@ -29,12 +29,32 @@
 
 ## 02 / Избранные работы
 
-| Проект | Коротко |
-| :--- | :--- |
-| **[Zoovix](https://github.com/Ponchik0/Zoovix)** | Кинокаталог с поиском и PWA. В разработке. |
-| **[Portfolio](https://ponchik0.github.io/portfolio/)** | Мои проекты и кейсы на трёх языках. |
-| **[Maksym Café](https://ponchik0.github.io/portfolio/uk/projects/maksym-cafe/)** | Меню и страница кафе — пилотный концепт. |
-| **[Poezdato](https://ponchik0.github.io/portfolio/uk/projects/poezdato/)** | Поиск поездов и расписание — концепт редизайна. |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Zoovix</h3>
+      <p>Кино, сериалы и поиск.<br /><sub>Веб-приложение · В разработке</sub></p>
+      <p><a href="https://github.com/Ponchik0/Zoovix"><strong>Смотреть код →</strong></a></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Portfolio</h3>
+      <p>Проекты, кейсы и контакты.<br /><sub>Персональный сайт · EN / UK / RU</sub></p>
+      <p><a href="https://ponchik0.github.io/portfolio/"><strong>Открыть сайт →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Maksym Café</h3>
+      <p>Меню и страница кафе.<br /><sub>Пилотный концепт</sub></p>
+      <p><a href="https://ponchik0.github.io/portfolio/uk/projects/maksym-cafe/"><strong>Смотреть кейс →</strong></a></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Poezdato</h3>
+      <p>Поиск поездов и расписание.<br /><sub>Концепт редизайна</sub></p>
+      <p><a href="https://ponchik0.github.io/portfolio/uk/projects/poezdato/"><strong>Смотреть кейс →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
