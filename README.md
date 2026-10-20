@@ -37,7 +37,7 @@
 
 `Next.js` `TypeScript` `Supabase`
 
-**[Смотреть код ↗](https://github.com/Ponchik0/Zoovix)**
+**[Смотреть код →](https://github.com/Ponchik0/Zoovix)**
 
 ---
 
@@ -49,7 +49,7 @@
 
 `Astro` `TypeScript` `CSS`
 
-**[Открыть сайт ↗](https://ponchik0.github.io/portfolio/)** &nbsp; · &nbsp; [Исходный код](https://github.com/Ponchik0/portfolio)
+**[Открыть сайт →](https://ponchik0.github.io/portfolio/)** &nbsp; · &nbsp; [Исходный код](https://github.com/Ponchik0/portfolio)
 
 ---
 
@@ -61,7 +61,7 @@
 
 `React` `Vite` `Tailwind CSS`
 
-**[Смотреть кейс ↗](https://ponchik0.github.io/portfolio/uk/projects/maksym-cafe/)**
+**[Смотреть кейс →](https://ponchik0.github.io/portfolio/uk/projects/maksym-cafe/)**
 
 ---
 
@@ -73,7 +73,7 @@
 
 `Node.js` `JavaScript` `CSS`
 
-**[Смотреть кейс ↗](https://ponchik0.github.io/portfolio/uk/projects/poezdato/)**
+**[Смотреть кейс →](https://ponchik0.github.io/portfolio/uk/projects/poezdato/)**
 
 <br />
 
